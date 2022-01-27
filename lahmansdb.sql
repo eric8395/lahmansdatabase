@@ -1,3 +1,4 @@
+#select lahmansdb
 use lahmansbaseballdb;
 
 #test query by joining people and batting tables
